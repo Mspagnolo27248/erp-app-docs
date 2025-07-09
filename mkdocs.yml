@@ -1,8 +1,10 @@
-site_name: My Docs
+site_name: ARG ERP Documentation
 nav:
 - Readme: Readme.md
-- Accounts-Payable:
-  - Voucher-Entry:
+- Accounts Payable:
+  - Payables: []
+  - Voucher Entry:
+    - Convert Voucher To Payable: []
     - Manual Voucher Entry:
       - Ap100 Ocl:
         - Ap100 Ocl: accounts-payable/voucher-entry/Manual Voucher Entry/AP100 OCL/AP100
@@ -11,4 +13,4 @@ nav:
             RPG.md
     - Ocr Voucher Entry:
       - Ap105 Rpg: accounts-payable/voucher-entry/OCR Voucher Entry/AP105 RPG.md
-- Index: index.md
+- Accounts Receivable: []
